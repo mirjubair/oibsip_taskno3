@@ -1,6 +1,6 @@
 # Car Price Prediction with Machine Learning
 
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
+**Elite Tech Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://img.freepik.com/free-vector/car-showroom-center-with-autos-exhibition-inside-automobile-dealership-store-shop-interior-new-modern-vehicles-models-demonstration-sale-trading_575670-1511.jpg?w=826&t=st=1699422007~exp=1699422607~hmac=3b2f5d6b9a8a9a9d789b029b73ea0744c0dfebbf1a78a9a89b775c6167ee943e)
 
