@@ -104,9 +104,9 @@ This project has not only equipped us with valuable data science skills but has 
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [mir jubair ul rehman]
 
 ---
 
 ## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
+ - hands on machine learning
